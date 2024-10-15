@@ -1,3 +1,9 @@
+# SQL Project: Data Analysis for Zomato - A Food Delivery Company
+
+## Overview
+
+This project demonstrates my SQL problem-solving skills through the analysis of data for Zomato, a popular food delivery company in India. The project involves setting up the database, importing data, handling null values, and solving a variety of business problems using complex SQL queries.
+
 ### **Schema Structure**
 
 ```sql
@@ -49,6 +55,11 @@ CREATE TABLE deliveries (
 );
 
 ```
+## Conclusion
 
+This project highlights my ability to handle complex SQL queries and provides solutions to real-world business problems in the context of a food delivery service like Zomato. The approach taken here demonstrates a structured problem-solving methodology, data manipulation skills, and the ability to derive actionable insights from data.
+
+## Notice 
+All customer names and data used in this project are computer-generated using AI and random functions. They do not represent real data associated with Zomato or any other entity. This project is solely for learning and educational purposes, and any resemblance to actual persons, businesses, or events is purely coincidental.
 
 
